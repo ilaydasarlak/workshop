@@ -16,4 +16,4 @@ By new unfolding his imprisoned pride.
 Blessed are you whose worthiness gives scope,
 Being had to triumph, being lacked to hope.
 
-![](rosetti-shakespeare_1_2.jpeg) 
+![](rosetti-shakespeare_1_2.jpg) 
