@@ -1,5 +1,3 @@
-# Test markdown document
-
 # Sonnet no.53
 ## by William Shakespeare 
 
@@ -17,3 +15,5 @@ To make some special instant special-blest,
 By new unfolding his imprisoned pride.
 Blessed are you whose worthiness gives scope,
 Being had to triumph, being lacked to hope.
+
+![](rosetti-shakespeare_1_2.jpeg) 
